@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'TenbyFive';
+    src: url('https://github.com/605-Painting/TimeTap_CSS/raw/refs/heads/main/TenbyFive.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'TenbyFive', sans-serif;
+}
